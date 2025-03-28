@@ -1,0 +1,11 @@
+build the ui/ux of the application (home,add ads,all cars,compare cars,car details,my ads) => done
+
+authentication using clerk => done
+
+functionality of the application
+  add ad => done
+  delete ad => done
+  add car to favorites => done
+  remove car from favorites => done
+  filter by car fuel & transmission & new or used , search => done
+  compare between cars => done
